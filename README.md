@@ -2,7 +2,7 @@
 
 ### Summary
 
-I started this project for a tabletop roleplaying game I'm in with some friends, playing the famous Kingmaker adventure path from Pathfinder 2nd Edition.
+I started this project for a tabletop roleplaying game I'm in with some friends, playing the Kingmaker adventure path from Pathfinder 2nd Edition.
 
 This project uses data from the [Pathfinder Wiki Mapping Project](https://github.com/pf-wikis/mapping) to do several things:
 
